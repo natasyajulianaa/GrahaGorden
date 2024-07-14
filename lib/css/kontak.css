@@ -1,0 +1,217 @@
+.bgnav2{
+    position: absolute;
+    z-index: 3;
+    width: 600px;
+    left: 0px;
+    height: 93px;
+    background-color:#053b50;
+    top: -3px;
+}
+
+.navbarr {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff; 
+    padding: 10px 20px; 
+}
+
+.navbarr ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+}
+
+.navbarr ul li {
+    display: inline-block;
+    margin-right: 100px; 
+}
+
+.navbarr ul li a {
+    color: rgba(197, 179, 179, 1);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    left: 650px;
+    top:  15px;
+    
+}
+
+.navbarr ul li a:hover {
+    color: rgba(0, 0, 0, 1);
+    transition: .3s;
+}
+
+button {
+ border: none;
+ color: #fff;
+background-color: #0e678a;
+ border-radius: 20px;
+ background-size: 100% auto;
+ font-family: inherit;
+ font-size: 15px;
+ padding: 0.6em 1.5em;
+ position: relative;
+ right: 40px;
+ top: 16px;
+ width: 100px;
+}
+
+button:hover {
+ background-position: right center;
+ background-size: 200% auto;
+ -webkit-animation: pulse 2s infinite;
+ animation: pulse512 1.5s infinite;
+}
+
+@keyframes pulse512 {
+ 0% {
+  box-shadow: 0 0 0 0 #05bada66;
+ }
+
+ 70% {
+  box-shadow: 0 0 0 10px rgb(218 103 68 / 0%);
+ }
+
+ 100% {
+  box-shadow: 0 0 0 0 rgb(218 103 68 / 0%);
+ }
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    position: relative;
+    width: 100vw; 
+    height: 100vh; 
+    overflow: hidden; 
+}
+
+.banner img {
+    position: absolute; 
+    top: 4.7vh; 
+    left: 0;
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+}
+
+.banner h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 60px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%; 
+}
+
+.rectangle {
+    background: #f2f623;
+    border-radius: 5px;
+    width: 10%; 
+    height: 7px; 
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 45%;
+}
+
+
+
+/* Untuk mengatur lebar elemen div */
+.alamat {
+    width: 100vw; /* Lebar akan mengikuti lebar selayar */
+    height: 700px; /* Tinggi bisa disesuaikan dengan kebutuhan */
+    overflow: hidden; /* Untuk memastikan peta tetap di dalam elemen div */
+    margin-top: -150px;
+}
+
+/* Untuk mengatur lebar dan tinggi iframe agar sesuai dengan div */
+.alamat iframe {
+    width: 100%;
+    height: 100%;
+}
+
+
+/*.rectangle1 {
+    background: rgba(22, 39, 66, 1);
+    width: 101%; 
+    height: 680px;
+    margin-top: -10px; 
+    position: relative; /* Tambahkan properti position relative */
+*/
+
+.kontak {
+    position: relative;
+    width: 100vw; 
+    height: 100vh; 
+    overflow: hidden; 
+}
+.kontak img {
+    position: absolute; 
+    top: 180vh; 
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.form-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 500px;
+    height: 400px;
+    margin-top: 100px; /* Ubah nilai ini sesuai dengan jarak yang diinginkan */
+    position: absolute; /* Tambahkan properti position absolute */
+    left: 40%; /* Pusatkan form horizontal */
+    transform: translateX(-80%); /* Pusatkan form horizontal */
+}
+
+    .form-container form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .form-container form label {
+        margin-bottom: 5px;
+    }
+
+    .form-container form input,
+    .form-container form textarea {
+        padding: 8px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .form-container form input[type="submit"] {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 30px;
+    }
+
+    .form-container form input[type="submit"]:hover {
+        background-color: #0056b3;
+    }
+
+/* CSS */
+.alamatt {
+    position: absolute;
+    max-width: 300px;
+    max-height: 300px;
+    margin-top: 160px;   
+    margin-left: 900px;
+}
+
+

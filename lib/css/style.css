@@ -1,0 +1,1173 @@
+.home-page, .home-page * {
+    box-sizing: border-box;
+    }
+.home-page {
+   background: #ffffff;
+    width: 1440px;
+    height: 5374px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.bgnav {
+   background: #ffffff;
+    width: 328px;
+    height: 336px;
+    position: absolute;
+    left: 720px;
+   top: 1497px;
+   }
+
+.bgnav2 {
+   background: #053b50;
+    width: 361.35px;
+    height: 443.54px;
+    position: absolute;
+    left: 186.12px;
+   top: 947px;
+    transform-origin: 0 0;
+    transform: rotate(0.274deg) scale(1, 1);
+   }
+
+.rectangle-3 {
+   width: 1440px;
+    height: 519px;
+    position: absolute;
+    left: 0px;
+   top: 87px;
+   }
+
+.rectangle-4 {
+   background: rgba(100, 204, 197, 0.15);
+    width: 1440px;
+    height: 220px;
+    position: absolute;
+    left: 0px;
+   top: 606px;
+   }
+
+.rectangle-6 {
+   width: 335.03px;
+    height: 433.63px;
+    position: absolute;
+    left: 229.92px;
+   top: 909px;
+    transform-origin: 0 0;
+    transform: rotate(0.124deg) scale(1, 1);
+   }
+
+.rectangle-10 {
+   background: #ffffff;
+    width: 328px;
+    height: 336px;
+    position: absolute;
+    left: 64px;
+   top: 1497px;
+   }
+
+.rectangle-11 {
+   background: #053b50;
+    width: 355px;
+    height: 365px;
+    position: absolute;
+    left: 366px;
+   top: 1480px;
+   }
+
+.rectangle-13 {
+   background: #ffffff;
+    width: 328px;
+    height: 336px;
+    position: absolute;
+    left: 1043px;
+   top: 1497px;
+   }
+
+.rectangle-15 {
+   background: #ffffff;
+    width: 354px;
+    height: 599px;
+    position: absolute;
+    left: 0px;
+   top: 2863px;
+   }
+
+.rectangle-18 {
+   width: 1449px;
+    height: 673px;
+    position: absolute;
+    left: 0px;
+   top: 3614px;
+   }
+
+.rectangle-19 {
+   background: #023b51;
+    width: 1053px;
+    height: 568px;
+    position: absolute;
+    left: 206px;
+   top: 3664px;
+   }
+
+.nata-gemink {
+   color: #ffffff;
+    text-align: center;
+    font: 400 24px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 627px;
+   top: 4010px;
+    width: 187px;
+   }
+
+.make-your-dream-house-come-true {
+   color: #ffffff;
+    text-align: left;
+    font: 700 64px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 102px;
+   top: 226px;
+    width: 616px;
+   }
+
+.with-graha-gorden-interior {
+   color: #ffffff;
+    text-align: left;
+    font: 400 25px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 112px;
+   top: 417px;
+    width: 843px;
+   }
+
+.rectangle-22 {
+   background: #f2f623;
+    border-radius: 5px;
+    width: 114px;
+    height: 6px;
+    position: absolute;
+    left: 112px;
+   top: 393px;
+   }
+
+.lorem-ipsum {
+   color: #000000;
+    text-align: left;
+    font: 400 28px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 239px;
+   top: 642px;
+   }
+
+.dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt {
+   color: rgba(0, 0, 0, 0.80);
+    text-align: left;
+    font: 400 18px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 239px;
+   top: 689px;
+    width: 233px;
+   }
+
+.lorem-ipsum2 {
+   color: #000000;
+    text-align: left;
+    font: 400 28px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 618px;
+   top: 642px;
+   }
+
+.dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt2 {
+   color: rgba(0, 0, 0, 0.80);
+    text-align: left;
+    font: 400 18px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 618px;
+   top: 689px;
+    width: 243px;
+   }
+
+.lorem-ipsum3 {
+   color: #000000;
+    text-align: left;
+    font: 400 28px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 994px;
+   top: 642px;
+   }
+
+.dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt3 {
+   color: rgba(0, 0, 0, 0.80);
+    text-align: left;
+    font: 400 18px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 994px;
+   top: 689px;
+    width: 238px;
+   }
+
+.welcome {
+   color: #176b87;
+    text-align: left;
+    font: 400 28px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 660px;
+   top: 935px;
+   }
+
+.rectangle-23 {
+   background: #f2f623;
+    border-radius: 5px;
+    width: 46px;
+    height: 4px;
+    position: absolute;
+    left: 664px;
+   top: 971px;
+   }
+
+.lorem-ipsum-sit-amet-dolor-consecterur {
+   color: #053b50;
+    text-align: left;
+    font: 300 58px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 655px;
+   top: 988px;
+    width: 651px;
+   }
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur {
+   color: rgba(0, 0, 0, 0.50);
+    text-align: left;
+    font: 400 17px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 657px;
+   top: 1153px;
+    width: 546px;
+   }
+
+.rectangle-24 {
+   background: #ffffff;
+    border-style: solid;
+    border-color: #053b50;
+    border-width: 1px;
+    width: 340px;
+    height: 41px;
+    position: absolute;
+    left: 660px;
+   top: 1294px;
+   }
+
+.lorem-ipsum-dolor-sit-amet {
+   color: #176b87;
+    text-align: left;
+    font: 400 20px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 710px;
+   top: 1302px;
+   }
+
+.group-1 {
+   position: absolute;
+    inset: 0;
+   }
+
+.sewing-machine-free-icons-designed-by-planbstudio-removebg-preview-1 {
+   width: 99px;
+    height: 104px;
+    position: absolute;
+    left: 161px;
+   top: 1515px;
+   }
+
+.made-to-measure {
+   color: #000000;
+    text-align: left;
+    font: 400 24px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 117px;
+   top: 1619px;
+    width: 200px;
+    height: 41px;
+   }
+
+.line-1 {
+   border-style: solid;
+    border-color: rgba(0, 0, 0, 0.70);
+    border-width: 1px 0 0 0;
+    width: 145px;
+    height: 0px;
+    position: absolute;
+    left: 138px;
+   top: 1663px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+   }
+
+.rectangle-25 {
+   background: #dbde5b;
+    border-radius: 5px;
+    width: 53px;
+    height: 5px;
+    position: absolute;
+    left: 182px;
+   top: 1660px;
+   }
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua {
+   color: rgba(0, 0, 0, 0.50);
+    text-align: center;
+    font: 400 16px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 106px;
+   top: 1674px;
+    width: 223px;
+   }
+
+.group-2 {
+   position: absolute;
+    inset: 0;
+   }
+
+.at-your-convience {
+   color: #ffffff;
+    text-align: left;
+    font: 400 24px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 443px;
+   top: 1617px;
+    width: 200px;
+    height: 41px;
+   }
+
+.line-12 {
+   border-style: solid;
+    border-color: #ffffff;
+    border-width: 1px 0 0 0;
+    width: 145px;
+    height: 0px;
+    position: absolute;
+    left: 464px;
+   top: 1661px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+   }
+
+.rectangle-252 {
+   background: #dbde5b;
+    border-radius: 5px;
+    width: 53px;
+    height: 5px;
+    position: absolute;
+    left: 508px;
+   top: 1658px;
+   }
+
+.calanders-clipart-png-images-calander-vector-icon-calander-date-day-png-image-for-free-download-removebg-preview-1 {
+   width: 118px;
+    height: 107px;
+    position: absolute;
+    left: 484px;
+   top: 1510px;
+   }
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua2 {
+   color: #d9d9d9;
+    text-align: center;
+    font: 400 16px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 428px;
+   top: 1674px;
+    width: 231px;
+   }
+
+.group-3 {
+   position: absolute;
+    inset: 0;
+   }
+
+.we-are-trusted {
+   color: #000000;
+    text-align: left;
+    font: 400 24px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 798px;
+   top: 1618px;
+    width: 171px;
+    height: 41px;
+   }
+
+.line-13 {
+   border-style: solid;
+    border-color: rgba(0, 0, 0, 0.70);
+    border-width: 1px 0 0 0;
+    width: 145px;
+    height: 0px;
+    position: absolute;
+    left: 805px;
+   top: 1663px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+   }
+
+.rectangle-253 {
+   background: #dbde5b;
+    border-radius: 5px;
+    width: 53px;
+    height: 5px;
+    position: absolute;
+    left: 849px;
+   top: 1660px;
+   }
+
+.download-handshake-heart-symbol-icon-vector-for-web-presentation-logo-infographic-business-idea-inspiration-feed-story-partnership-client-for-free-removebg-preview-1 {
+   width: 100px;
+    height: 102px;
+    position: absolute;
+    left: 826px;
+   top: 1528px;
+   }
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua3 {
+   color: rgba(0, 0, 0, 0.50);
+    text-align: center;
+    font: 400 16px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 772px;
+   top: 1674px;
+    width: 223px;
+   }
+
+.customers-clients-icon-removebg-preview-1 {
+   width: 146px;
+    height: 108px;
+    position: absolute;
+    left: 1141px;
+   top: 1522px;
+   }
+
+.group-4 {
+   position: absolute;
+    inset: 0;
+   }
+
+.we-do-it-all-for-you {
+   color: #000000;
+    text-align: left;
+    font: 400 24px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 1114px;
+   top: 1617px;
+    width: 218px;
+    height: 41px;
+   }
+
+.line-14 {
+   border-style: solid;
+    border-color: rgba(0, 0, 0, 0.70);
+    border-width: 1px 0 0 0;
+    width: 158.05px;
+    height: 0px;
+    position: absolute;
+    left: 1136.89px;
+   top: 1661px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+   }
+
+.rectangle-254 {
+   background: #dbde5b;
+    border-radius: 5px;
+    width: 57.77px;
+    height: 5px;
+    position: absolute;
+    left: 1184.85px;
+   top: 1658px;
+   }
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua4 {
+   color: rgba(0, 0, 0, 0.50);
+    text-align: center;
+    font: 400 16px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 1102px;
+   top: 1680px;
+    width: 223px;
+   }
+
+.rectangle-26 {
+   background: rgba(100, 204, 197, 0.15);
+    width: 723px;
+    height: 349px;
+    position: absolute;
+    left: 609px;
+   top: 2280px;
+   }
+
+.rectangle-27 {
+   width: 754px;
+    height: 473px;
+    position: absolute;
+    left: 687px;
+   top: 2087px;
+   }
+
+.products {
+   color: #176b87;
+    text-align: left;
+    font: 400 28px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 46px;
+   top: 2087px;
+   }
+
+.rectangle-28 {
+   background: #f2f623;
+    border-radius: 5px;
+    width: 46px;
+    height: 4px;
+    position: absolute;
+    left: 50px;
+   top: 2123px;
+   }
+
+.lorem-ipsum-sit-amet-dolor-consecterur2 {
+   color: #053b50;
+    text-align: left;
+    font: 300 58px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 41px;
+   top: 2140px;
+    width: 651px;
+   }
+
+.popular-right-now {
+   color: #053b50;
+    text-align: left;
+    font: 400 50px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 500px;
+   top: 2742px;
+    width: 456px;
+   }
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur2 {
+   color: rgba(0, 0, 0, 0.50);
+    text-align: left;
+    font: 400 17px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 43px;
+   top: 2305px;
+    width: 486px;
+   }
+
+.rectangle-29 {
+   background: #ffffff;
+    border-style: solid;
+    border-color: #053b50;
+    border-width: 1px;
+    width: 93px;
+    height: 41px;
+    position: absolute;
+    left: 46px;
+   top: 2470px;
+   }
+
+.more {
+   color: #176b87;
+    text-align: left;
+    font: 400 20px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 68px;
+   top: 2478px;
+   }
+
+.shop {
+   color: #176b87;
+    text-align: left;
+    font: 400 28px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 667px;
+   top: 2706px;
+   }
+
+.rectangle-30 {
+   background: #f2f623;
+    border-radius: 5px;
+    width: 46px;
+    height: 4px;
+    position: absolute;
+    left: 671px;
+   top: 2742px;
+   }
+
+.rectangle-32 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    width: 354px;
+    height: 365px;
+    position: absolute;
+    left: 0px;
+   top: 2855px;
+   }
+
+.brown-lorem-lorem-chuaks-awokwokwok-hehe {
+   color: #023b51;
+    text-align: center;
+    font: 400 22px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 41px;
+   top: 3233px;
+    width: 265px;
+   }
+
+.rp-450-000-500-000 {
+   color: #176b87;
+    text-align: left;
+    font: 400 28px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 37px;
+   top: 3324px;
+   }
+
+.rectangle-33 {
+   background: #023b51;
+    border-style: solid;
+    border-color: #053b50;
+    border-width: 1px;
+    width: 131px;
+    height: 41px;
+    position: absolute;
+    left: 128px;
+   top: 3380px;
+   }
+
+.add-to-cart {
+   color: #d9d9d9;
+    text-align: left;
+    font: 400 20px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 146px;
+   top: 3388px;
+   }
+
+.rectangle-34 {
+   background: #ffffff;
+    width: 354px;
+    height: 599px;
+    position: absolute;
+    left: 370px;
+   top: 2867px;
+   }
+
+.rectangle-35 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    width: 354px;
+    height: 365px;
+    position: absolute;
+    left: 370px;
+   top: 2855px;
+   }
+
+.brown-lorem-lorem-chuaks-awokwokwok-hehe2 {
+   color: #023b51;
+    text-align: center;
+    font: 400 22px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 411px;
+   top: 3237px;
+    width: 265px;
+   }
+
+.rp-450-000-500-0002 {
+   color: #176b87;
+    text-align: left;
+    font: 400 28px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 407px;
+   top: 3328px;
+   }
+
+.rectangle-36 {
+   background: #023b51;
+    border-style: solid;
+    border-color: #053b50;
+    border-width: 1px;
+    width: 131px;
+    height: 41px;
+    position: absolute;
+    left: 482px;
+   top: 3384px;
+   }
+
+.add-to-cart2 {
+   color: #d9d9d9;
+    text-align: left;
+    font: 400 20px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 500px;
+   top: 3392px;
+   }
+
+.rectangle-37 {
+   background: #ffffff;
+    width: 354px;
+    height: 599px;
+    position: absolute;
+    left: 740px;
+   top: 2863px;
+   }
+
+.rectangle-38 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    width: 354px;
+    height: 365px;
+    position: absolute;
+    left: 740px;
+   top: 2855px;
+   }
+
+.brown-lorem-lorem-chuaks-awokwokwok-hehe3 {
+   color: #023b51;
+    text-align: center;
+    font: 400 22px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 781px;
+   top: 3233px;
+    width: 265px;
+   }
+
+.rp-450-000-500-0003 {
+   color: #176b87;
+    text-align: left;
+    font: 400 28px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 777px;
+   top: 3324px;
+   }
+
+.rectangle-39 {
+   background: #023b51;
+    border-style: solid;
+    border-color: #053b50;
+    border-width: 1px;
+    width: 131px;
+    height: 41px;
+    position: absolute;
+    left: 852px;
+   top: 3380px;
+   }
+
+.add-to-cart3 {
+   color: #d9d9d9;
+    text-align: left;
+    font: 400 20px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 870px;
+   top: 3388px;
+   }
+
+.rectangle-40 {
+   background: #ffffff;
+    width: 354px;
+    height: 599px;
+    position: absolute;
+    left: 1110px;
+   top: 2863px;
+   }
+
+.rectangle-41 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    width: 354px;
+    height: 365px;
+    position: absolute;
+    left: 1110px;
+   top: 2855px;
+   }
+
+.brown-lorem-lorem-chuaks-awokwokwok-hehe4 {
+   color: #023b51;
+    text-align: center;
+    font: 400 22px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 1151px;
+   top: 3233px;
+    width: 265px;
+   }
+
+.rp-450-000-500-0004 {
+   color: #176b87;
+    text-align: left;
+    font: 400 28px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 1147px;
+   top: 3324px;
+   }
+
+.rectangle-42 {
+   background: #023b51;
+    border-style: solid;
+    border-color: #053b50;
+    border-width: 1px;
+    width: 131px;
+    height: 41px;
+    position: absolute;
+    left: 1222px;
+   top: 3380px;
+   }
+
+.add-to-cart4 {
+   color: #d9d9d9;
+    text-align: left;
+    font: 400 20px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 1240px;
+   top: 3388px;
+   }
+
+.testimonial {
+   color: #ffffff;
+    text-align: left;
+    font: 400 28px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 642px;
+   top: 3750px;
+   }
+
+.rectangle-43 {
+   background: #f2f623;
+    border-radius: 5px;
+    width: 46px;
+    height: 4px;
+    position: absolute;
+    left: 690px;
+   top: 3786px;
+   }
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat {
+   color: #ffffff;
+    text-align: center;
+    font: 400 24px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 349px;
+   top: 3857px;
+    width: 729px;
+   }
+
+.line-2 {
+   border-style: solid;
+    border-color: #c5b3b3;
+    border-width: 1px 0 0 0;
+    width: 258.02px;
+    height: 0px;
+    position: absolute;
+    left: 279px;
+   top: 4139px;
+    transform-origin: 0 0;
+    transform: rotate(0.661deg) scale(1, 1);
+   }
+
+.line-3 {
+   border-style: solid;
+    border-color: #c5b3b3;
+    border-width: 1px 0 0 0;
+    width: 258.05px;
+    height: 0px;
+    position: absolute;
+    left: 886px;
+   top: 4140px;
+    transform-origin: 0 0;
+    transform: rotate(1.11deg) scale(1, 1);
+   }
+
+.ellipse-1 {
+   border-radius: 50%;
+    width: 82px;
+    height: 82px;
+    position: absolute;
+    left: 566px;
+   top: 4102px;
+   }
+
+.ellipse-2 {
+   border-radius: 50%;
+    width: 105px;
+    height: 105px;
+    position: absolute;
+    left: 664px;
+   top: 4070px;
+   }
+
+.ellipse-3 {
+   border-radius: 50%;
+    width: 82px;
+    height: 82px;
+    position: absolute;
+    left: 788px;
+   top: 4102px;
+   }
+
+.rectangle-44 {
+   background: #176b87;
+    border-radius: 5px;
+    width: 46px;
+    height: 4px;
+    position: absolute;
+    left: 656px;
+   top: 4041px;
+   }
+
+.rectangle-45 {
+   width: 883px;
+    height: 570px;
+    position: absolute;
+    left: 547px;
+   top: 4435px;
+   }
+
+.contacts-and-location {
+   color: #053b50;
+    text-align: left;
+    font: 400 28px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 586px;
+   top: 4435px;
+   }
+
+.rectangle-46 {
+   background: #f2f623;
+    border-radius: 5px;
+    width: 46px;
+    height: 4px;
+    position: absolute;
+    left: 697px;
+   top: 4471px;
+   }
+
+.graha-gorden-interior-office {
+   color: #053b50;
+    text-align: left;
+    font: 400 55px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: 62px;
+   top: 4535px;
+    width: 622px;
+   }
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat2 {
+   color: rgba(0, 0, 0, 0.50);
+    text-align: left;
+    font: 400 19px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 69px;
+   top: 4688px;
+    width: 486px;
+   }
+
+.vector {
+   position: absolute;
+    left: 74px;
+   top: 4827px;
+    overflow: visible;
+   }
+
+.whatsapp {
+   position: absolute;
+    left: 75px;
+   top: 4871px;
+    overflow: visible;
+   }
+
+._0812-3456-7890 {
+   color: #053b50;
+    text-align: left;
+    font: 400 19px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 112px;
+   top: 4873px;
+   }
+
+.jalan-taman-baruna-nusa-dua-bali {
+   color: #053b50;
+    text-align: left;
+    font: 400 19px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 112px;
+   top: 4828px;
+   }
+
+.vector3 {
+   position: absolute;
+    left: 74px;
+   top: 4918.41px;
+    overflow: visible;
+   }
+
+.grahainteriorbali-gmail-com {
+   color: #053b50;
+    text-align: left;
+    font: 400 19px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 112px;
+   top: 4916px;
+   }
+
+.follow-us {
+   color: #053b50;
+    text-align: left;
+    font: 400 28px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 656px;
+   top: 5069px;
+   }
+
+.rectangle-47 {
+   background: #f2f623;
+    border-radius: 5px;
+    width: 46px;
+    height: 4px;
+    position: absolute;
+    left: 697px;
+   top: 5105px;
+   }
+
+.vector4 {
+   position: absolute;
+    left: 775px;
+   top: 5122px;
+    overflow: visible;
+   }
+
+.vector5 {
+   position: absolute;
+    left: 688px;
+   top: 5129.32px;
+    overflow: visible;
+   }
+
+.vector6 {
+   position: absolute;
+    left: 612px;
+   top: 5129.32px;
+    overflow: visible;
+   }
+
+.rectangle-48 {
+   background: #053b50;
+    width: 1440px;
+    height: 98px;
+    position: absolute;
+    left: 0px;
+   top: 5276px;
+   }
+
+.copyright-natasya-julia-2023 {
+   color: #ffffff;
+    text-align: left;
+    font: 400 19px 'Alatsi', sans-serif;
+    position: absolute;
+    left: 586px;
+   top: 5306px;
+   }
+
+.rectangle-50 {
+   position: absolute;
+    left: 956.5px;
+   top: -418.5px;
+    overflow: visible;
+   }
+
+.nav {
+   position: absolute;
+    inset: 0;
+   }
+
+.rectangle-1 {
+   background: #053b50;
+    width: 472px;
+    height: 87px;
+    position: absolute;
+    left: calc(50% - 720px);
+   top: calc(50% - 2687px);
+   }
+
+.rectangle-2 {
+   background: #ffffff;
+    width: 968px;
+    height: 87px;
+    position: absolute;
+    left: calc(50% - 248px);
+   top: calc(50% - 2688px);
+   }
+
+.home {
+   color: #000000;
+    text-align: left;
+    font: 700 28px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: calc(50% - 174px);
+   top: calc(50% - 2663px);
+   }
+
+.about {
+   color: #c5b3b3;
+    text-align: left;
+    font: 400 28px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: calc(50% - 36px);
+   top: calc(50% - 2663px);
+   }
+
+.product {
+   color: #c5b3b3;
+    text-align: left;
+    font: 400 28px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: calc(50% - -102px);
+   top: calc(50% - 2664px);
+   }
+
+.contacts {
+   color: #c5b3b3;
+    text-align: left;
+    font: 400 28px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: calc(50% - -269px);
+   top: calc(50% - 2663px);
+   }
+
+.rectangle-21 {
+   background: #176b87;
+    border-radius: 15px;
+    width: 153px;
+    height: 31px;
+    position: absolute;
+    left: calc(50% - -463px);
+   top: calc(50% - 2658px);
+   }
+
+.login {
+   color: #d9d9d9;
+    text-align: left;
+    font: 400 24px 'Inria Serif', sans-serif;
+    position: absolute;
+    left: calc(50% - -509px);
+   top: calc(50% - 2660px);
+   }
+
+.rectangle-49 {
+   background: #053b50;
+    border-radius: 5px;
+    width: 78px;
+    height: 5px;
+    position: absolute;
+    left: calc(50% - 174px);
+   top: calc(50% - 2627px);
+   }
+

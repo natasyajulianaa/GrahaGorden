@@ -1,0 +1,374 @@
+.bgnav2{
+    position: absolute;
+    z-index: 3;
+    width: 600px;
+    left: 0px;
+    height: 93px;
+    background-color:#053b50;
+    top: -3px;
+}
+
+.navbarr {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff; 
+    padding: 10px 20px; 
+}
+
+.navbarr ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+}
+
+.navbarr ul li {
+    display: inline-block;
+    margin-right: 100px; 
+}
+
+.navbarr ul li a {
+    color: rgba(197, 179, 179, 1);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    left: 650px;
+    top:  15px;
+    
+}
+
+.navbarr ul li a:hover {
+    color: rgba(0, 0, 0, 1);
+    transition: .3s;
+}
+
+button {
+ border: none;
+ color: #fff;
+background-color: #0e678a;
+ border-radius: 20px;
+ background-size: 100% auto;
+ font-family: inherit;
+ font-size: 15px;
+ padding: 0.6em 1.5em;
+ position: relative;
+ right: 40px;
+ top: 16px;
+ width: 100px;
+}
+
+button:hover {
+ background-position: right center;
+ background-size: 200% auto;
+ -webkit-animation: pulse 2s infinite;
+ animation: pulse512 1.5s infinite;
+}
+
+@keyframes pulse512 {
+ 0% {
+  box-shadow: 0 0 0 0 #05bada66;
+ }
+
+ 70% {
+  box-shadow: 0 0 0 10px rgb(218 103 68 / 0%);
+ }
+
+ 100% {
+  box-shadow: 0 0 0 0 rgb(218 103 68 / 0%);
+ }
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    position: relative;
+    width: 100vw; 
+    height: 100vh; 
+    overflow: hidden; 
+}
+
+.banner img {
+    position: absolute; 
+    top: 4.7vh; 
+    left: 0;
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+}
+
+.banner h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 60px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%; 
+}
+
+.rectangle {
+    background: #f2f623;
+    border-radius: 5px;
+    width: 10%; 
+    height: 7px; 
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 45%;
+}
+
+.rectangle1 {
+    background: rgba(100, 204, 197, 0.15);
+    width: 100%; 
+    height: 280px;
+    margin-top: -120px; 
+}
+
+.konten {
+    padding: 10px;
+    margin-top: 200px;
+    position: relative; 
+}
+
+.teks {
+    position: absolute;
+    left: 50%; 
+    top: 50%; 
+    transform: translate(-50%, -50%); 
+    text-align: center; 
+}
+
+.rectangle4 {
+    background: #f2f623;
+    border-radius: 5px;
+    width: 2.5%;
+    height: 3px;
+    position: absolute;
+    left: 50%; 
+    top: 23%; 
+    transform: translate(-50%, -50%); 
+}
+
+.teks h2{
+    color: rgba(23, 107, 135, 1);
+    font: 700 20px 'Inria Serif', sans-serif;
+}
+
+.teks h3 {
+    color: rgba(23, 107, 135, 1);
+    font-size: 60px;
+    font-weight: lighter;
+    width: 600px;
+    margin-top: 35px; 
+}
+
+/*card */
+.card-container {
+    display: flex;
+    justify-content: center; 
+    flex-wrap: wrap; 
+    margin-top: 60px;
+}
+
+.card {
+    width: 300px;
+    height: 480px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 20px; 
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s;
+}
+
+.card img {
+    width: 100%;
+    display: block;
+    transition: transform 0.3s;
+}
+
+.card:hover,
+.card.active {
+    transform: scale(1.1); 
+}
+
+.card .card-content {
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.card .card-content h3 {
+    margin-top: 0;
+}
+
+.card .card-content p {
+    margin-bottom: 10px;
+}
+
+.card .card-content button {
+    background-color: #023B51;
+    color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 5px 10px;
+    cursor: pointer;
+    position: relative;
+    margin-left: 70px;
+}
+
+
+.diskon {
+    display: block;
+    margin-left: auto !important; 
+    margin-right: auto !important; 
+    margin-top: 40px !important; 
+    width: 92%;
+}
+
+.btn3 {
+    margin-top: -120px;
+    margin-left: 75px;
+}
+
+.btn3 button {
+    width: 250px;
+    height: 40px; 
+    background-color: rgba(2, 59, 81, 1);
+    margin-top: 30px;
+    margin-left: 85px;
+    padding: 0; 
+    border-radius: 0; 
+}
+
+.btn3 p {
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    margin: 0; 
+}
+
+
+/*konten 2 */
+.konten2 {
+    padding: 10px;
+    margin-top: 200px;
+    position: relative; 
+}
+
+.teks2 {
+    position: absolute;
+    left: 50%; 
+    top: 50%; 
+    transform: translate(-50%, -50%); 
+    text-align: center; 
+}
+
+.rectangle5 {
+    background: #f2f623;
+    border-radius: 5px;
+    width: 2.5%;
+    height: 3px;
+    position: absolute;
+    left: 50%; 
+    top: 23%; 
+    transform: translate(-50%, -50%); 
+}
+
+.teks2 h2{
+    color: rgba(23, 107, 135, 1);
+    font: 700 20px 'Inria Serif', sans-serif;
+}
+
+.teks2 h3 {
+    color: rgba(23, 107, 135, 1);
+    font-size: 60px;
+    font-weight: lighter;
+    width: 600px;
+    margin-top: 35px; 
+}
+
+/*card */
+.card-container2 {
+    display: flex;
+    justify-content: center; 
+    flex-wrap: wrap; 
+    margin-top: 60px;
+}
+
+.card2 {
+    width: 280px;
+    height: 480px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 20px; 
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s;
+}
+
+.card2 img {
+    width: 100%;
+    display: block;
+    transition: transform 0.3s;
+}
+
+.card2:hover,
+.card2.active {
+    transform: scale(1.1); 
+}
+
+.card2 .card-content2 {
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.card2 .card-content2 h3 {
+    margin-top: 0;
+}
+
+.card2 .card-content2 p {
+    margin-bottom: 10px;
+}
+
+.card2 .card-content2 .btn2 {
+    background-color: #023B51;
+    color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 5px 10px;
+    cursor: pointer;
+    position: relative;
+    width: 110px;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+
+
+/*footer*/
+.rectangle8 {
+    position: absolute;
+    top: 260rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%; 
+    height: 70px; 
+    background-color: #023B51; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rectangle8 .teks5 {
+    text-align: center;
+    color: white;
+    font-size: 10px;
+}
